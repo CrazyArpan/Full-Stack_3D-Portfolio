@@ -149,9 +149,9 @@ const expCards = [
     imgPath: "/images/exp1.png",
     logoPath: "/images/logo1.webp",
     title: "React Developer Inrern",
-    date: "January 2023 - Present",
+    date: "November 2024 - February 2025",
     responsibilities: [
-      "Developed and maintained user-facing features for the Hostinger website.",
+      "Developed and maintained user-facing features for projects.",
       "Collaborated closely with UI/UX designers to ensure seamless user experiences.",
       "Optimized web applications for maximum speed and scalability.",
     ],
