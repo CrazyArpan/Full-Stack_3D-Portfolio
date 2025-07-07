@@ -10,7 +10,7 @@ A modern, interactive 3D portfolio website built with React and Vite. Showcase y
 - Easy customization
 
 ## Demo
-[Add a link to your live site here (if available).](https://full-stack-3-d-portfolio.vercel.app/)
+[Portfolio](https://full-stack-3-d-portfolio.vercel.app/)
 
 ## Getting Started
 
